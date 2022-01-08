@@ -1,3 +1,4 @@
-.vscode
-res/.tmp
-TODO
+.vs
+bin
+obj
+app.manifest
