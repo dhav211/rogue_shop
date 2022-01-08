@@ -1,4 +1,3 @@
-.vs
-bin
-obj
-app.manifest
+.vscode
+.import
+.mono
